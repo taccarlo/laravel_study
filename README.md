@@ -1,22 +1,22 @@
-## My Study about Laravel
+# My Study about Laravel
 
-## To start
-Create project command
-‘‘‘
+# To start
+## Create project command
+```sh
 composer create-project --prefer-dist laravel/laravel todolist
-‘‘‘
-Execute project command
-‘‘‘
+```
+## Execute project command
+```sh
 php artisan serve
-‘‘‘
-## Migrations
-Create  a model for migration
-‘‘‘
+```
+# Migrations
+## Create  a model for migration
+```sh
 php artisan make:model Item -m
-‘‘‘
+```
 on database/migrations folder we should say now some php files.
 
 
 
-##Author
+## Author
 Carlo Tacchella 30/08/2022
