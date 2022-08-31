@@ -23,6 +23,12 @@ php artisan migrate
 ## List of commands launched:
 - ```php artisan make:controller ItemController --resource```
 
+# Frontend part
+run the following commands:
+```sh
+npm install
+npm install vue
+```
 
-## Author
+# Author
 Carlo Tacchella 30/08/2022
