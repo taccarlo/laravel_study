@@ -14,8 +14,14 @@ php artisan serve
 ```sh
 php artisan make:model Item -m
 ```
-on database/migrations folder we should say now some php files.
+on database/migrations folder we should see now some php files.
+## To run the migration
+```sh
+php artisan migrate
+```
 
+## List of commands launched:
+- ```php artisan make:controller ItemController --resource```
 
 
 ## Author
